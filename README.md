@@ -38,3 +38,8 @@ This project demonstrates a basic security audit of an Amazon S3 bucket using AW
 This is a learning lab using my own test resources. It is not a professional audit of a production environment.
 
 AWS S3 security audit project covering public access, encryption, bucket policies, and security best practices.
+## 5. Data Protection
+
+* [x] S3 Bucket Versioning is enabled.
+* [x] Object Ownership is set to Bucket owner enforced.
+* [x] ACLs are disabled.
